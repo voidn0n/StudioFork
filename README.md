@@ -11,6 +11,8 @@ How to use:
 This is a fork so 
 Yeah you stab it into your food
 
+Read tutorial [here](https://gist.github.com/Modder4869/0f5371f8879607eb95b8e63badca227e)
+
 
 
 

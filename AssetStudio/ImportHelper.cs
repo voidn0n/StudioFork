@@ -1029,7 +1029,7 @@ namespace AssetStudio
             if(Logger.Flags.HasFlag(LoggerEvent.Verbose)){
 			Logger.Verbose("Decrypted Girls Frontline file successfully !!");
 									}
-
+            File.WriteAllBytes("GF_BS"+reader.FileName,data); 
             MemoryStream ms = new();
             ms.Write(data);
             ms.Position = 0;

@@ -15,7 +15,7 @@ Read tutorial [here](https://gist.github.com/Modder4869/0f5371f8879607eb95b8e63b
 
 
 
-
+ 
 Special Thank to:
 - Perfare: Original author.
 - Khang06: [Project](https://github.com/khang06/genshinblkstuff) for extraction.

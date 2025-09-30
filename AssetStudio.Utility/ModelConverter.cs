@@ -160,7 +160,7 @@ namespace AssetStudio
                         var type = comp.ToType();
                         var script = type["m_Script"] as OrderedDictionary;
                         long pathID = (long)script["m_PathID"];
-                        if (pathID == 2502299941378094616L || comp.Name == "RoleMeshRes")
+                        if (pathID == 2502299941378094616L || comp.Name == "RoleMeshRes" || pathID == 7521431952269820787L || comp.Name == "WeaponMeshRes")
                         {
                             var list = type["MeshResList"] as List<object>;
                             foreach (OrderedDictionary entry in list)
